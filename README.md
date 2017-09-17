@@ -1,7 +1,6 @@
-#FormValidation Demo:
+# FormValidation Demo
 
-
-
+![FormValidationDemo](https://github.com/navneetkarnam/Angular-formValidation/blob/master/formValidation.gif)
 
 # FormValidation
 
